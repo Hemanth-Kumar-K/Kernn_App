@@ -42,23 +42,18 @@
 1. Clone the repository:  
    ```bash  
    git clone https://github.com/Hemanth-Kumar-K/Kernn_App.git  
-Navigate to the project directory:
-
-bash
-Copy code
+2. Navigate to the project directory:
+```bash
 cd Kernn_App  
-Install dependencies:
-
-bash
-Copy code
+```
+3. Install dependencies:
+```
 flutter pub get  
-Run the app:
-
-bash
-Copy code
+```
+4. Run the app:
+```
 flutter run  
-Screenshots
-
+```
 Bonus Features (Optional)
 Dark mode support.
 
